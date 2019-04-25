@@ -1,0 +1,40 @@
+p{
+	color: red;
+}
+
+body{
+	background-image:url(../img/3.jpg);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+
+@font-face {
+   font-family: myFirstFont;
+   src: url(../fonts/ArgonPERSONAL-Regular.otf);
+}
+
+.header1 {
+   font-family: myFirstFont;
+   text-align: center;
+   margin-right: 150px;
+}
+
+.header{
+	font-family: 'Bitter', serif;
+}
+
+.centreLi{
+margin-top:10%;
+}
+
+.panel-background{
+	
+}
+.panel{
+	height:500px;
+	/*background-image:url(../img/1.jpg);*/
+	background-size:cover;
+	border:none;
+	background: rgba(224, 130, 131, 0.4);
+	}
+	
